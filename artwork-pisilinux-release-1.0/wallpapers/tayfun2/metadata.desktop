@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=tayfun2
-Name[tr]=tayfun2
+Name=tayfun-pier
+Name[tr]=tayfun-iskele
 
-X-KDE-PluginInfo-Name=tayfun2
-X-KDE-PluginInfo-Author=KDE
+X-KDE-PluginInfo-Name=tayfun-pier
+X-KDE-PluginInfo-Author=Tayfun
 X-KDE-PluginInfo-Email=info@pisilinux.org
-X-KDE-PluginInfo-License=Creative Commons BY-NC-ND
+X-KDE-PluginInfo-License=LGPLv3
